@@ -1,9 +1,15 @@
 h1{
-  color: #585858;
+  color: #084B8A;
   text-align: center;
 }
 h3{
   color:#084B8A;
   text-align: center;
 }
-#tabs li {display:inline;}
+#tabs li {
+  display:inline;
+}
+div{
+  background-color: #585858
+}
+
