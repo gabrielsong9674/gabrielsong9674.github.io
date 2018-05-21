@@ -6,7 +6,7 @@ h3{
   color:#084B8A;
   text-align: center;
 }
-#tabs li {
+#tabs ul {
   display:inline;
   background-color: #585858
   text-align: center; 
